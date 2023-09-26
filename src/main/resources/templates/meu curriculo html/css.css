@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://img.freepik.com/vetores-gratis/fundo-preto-estilo-3d-com-camada-de-papel_206725-669.jpg?w=1060&t=st=1692043421~exp=1692044021~hmac=d44f85ab355121837c2b655c855cb4da82aa5bf598103af34105d46b42c98821");
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.info {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+.conteiner {
+    background: whitesmoke;
+    width: 1200px;
+    height: 1300px;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+
+.imagem {
+    border-radius: 30px;
+    margin-right: 10px;
+}
+
+li {
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.um {
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
